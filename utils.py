@@ -1,4 +1,10 @@
-# 1) petrova features:
+def factorial(n):
+    a = 1
+    for i in range(1,n+1):
+        a = a * i
+    return a
+
+# 2) petrova features:
 #перевірка чи є число простим
 
 #n = int(input())
