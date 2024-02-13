@@ -4,7 +4,6 @@ def factorial(n):
         a = a * i
     return a
 
-<<<<<<< HEAD
 def is_power_of_five(num):
     degree = 0
     while 5 ** degree <= num:
@@ -22,12 +21,9 @@ if result:
 else:
     print(f"{number} не є степенем п'ятірки.")
 
-# 2) petrova features:
-#перевірка чи є число простим
 
 
-# 1) petrova features:
- cb34b2a (Add a code to utils.py (without pulll request))
+# 1) petrova features: #add with pull request
 #n = int(input())
 
 def PrimeNum(n): #опис функції
@@ -57,6 +53,3 @@ def PrimeNum(n): #опис функції
     else:
       print("Введене число НЕ є простим")
 
-
-
- cb34b2a (Add a code to utils.py (without pulll request))
