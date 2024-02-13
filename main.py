@@ -2,5 +2,5 @@ import utils
 n = int(input())
 print(utils.factorial(n))
 
-# petrova feature
+# petrova features
 print(utils.PrimeNum(n))
